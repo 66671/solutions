@@ -43,7 +43,6 @@ def factorial(number):
 
     return result
 
-
 # Here starts the main program. From the main program you can call your functions.
 factorial_input = 3
 factorial_result = factorial(factorial_input)
